@@ -1,0 +1,21 @@
+.services .cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card img {
+  width: 50px;
+}
+
+.services {
+  margin: 20px;
+}
+
+.card {
+  margin: 20px;
+  text-align: center;
+}
+
+.services h2 {
+  text-align: center;
+}
